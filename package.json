@@ -8,4 +8,7 @@
   },
   "author": "3drens",
   "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chungdial/react-native-background-geolocation-common-modified.git"
 }
