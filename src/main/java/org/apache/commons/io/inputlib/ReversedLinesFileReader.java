@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.apache.commons.io.input;
+package org.apache.commons.io.inputlib;
 
 import java.io.Closeable;
 import java.io.File;
@@ -25,7 +25,6 @@ import java.nio.charset.Charset;
 import java.nio.charset.CharsetEncoder;
 import java.nio.charset.UnsupportedCharsetException;
 
-import org.apache.commons.io.Charsets;
 /**
  * Reads lines in a file reversely (similar to a BufferedReader, but starting at
  * the last line). Useful for e.g. searching in log files.
